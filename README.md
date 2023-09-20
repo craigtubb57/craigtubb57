@@ -1,8 +1,7 @@
-### Craig's looking for his next challenge 👋
-[![Email me][email]](mailto:craig.tubb.57@gmail.com "craig.tubb.57@gmail.com")
+### 👋  Craig's looking for his next challenge :point_right: [![Email me][email]](mailto:craig.tubb.57@gmail.com "craig.tubb.57@gmail.com")
 
 ---
-__I'm loving serverless technologies at the moment, and it makes me very happy to see some code I've written make it's way to production via a CI/CD pipeline.__
+__:cloud: I'm loving serverless technologies at the moment, and it makes me very happy to see some code I've written make it's way to production via a CI/CD pipeline.__
 
 ---
 
@@ -11,18 +10,18 @@ __I'm loving serverless technologies at the moment, and it makes me very happy t
 > ![AWS SAM][sam] ![Cloudformation][cloudformation] ![Terraform][terraform] ![Auth0][auth0]
 >
 > ![GitHub Actions][githubactions] ![Docker][docker] ![GitHub Pages][githubpages]
-> ##### <p align="right">- some stuff I used recently</p>
+> ##### <p align="right">:point_up: some stuff I used recently</p>
 
 ---
-__I approach problems with a TDD mindset and I always try and build for failure, balancing this with pragmatic demands of the project.__
+__:pencil: I approach problems with a TDD mindset and I always try and build for failure, balancing this with pragmatic demands of the project.__
 
 ---
 
-> <a href="https://www.kobaltmusic.com/"><img src="https://www.musicbusinessworldwide.com/files/2023/07/Kobalt-logo.jpg" width="60" alt="Kobalt Music"></a> <a href="https://airwalkreply.com/"><img src="https://airwalkreply.com/assets/Airwalk-Reply-Colour-Logo.svg" width="60" alt="Airwalk Reply"></a> <a href="https://theculturetrip.com/"><img src="https://theculturetrip.com/img/ct-full.svg" width="60" alt="The Culture Trip"></a> <img src="https://www.the-digital-insurer.com/wp-content/uploads/2019/04/MyDrive_Solutions_logo.png" width="60" alt="MyDrive Solutions"> <a href="https://data.mendeley.com/"><img src="https://scicrunch.org/upload/resource-images/15671.png" width="60" alt="Mendeley Data"></a>
-> ##### <p align="right">- places I've worked</p>
+> <a href="https://www.kobaltmusic.com/"><img src="https://www.musicbusinessworldwide.com/files/2023/07/Kobalt-logo.jpg" width="100" alt="Kobalt Music"></a> <a href="https://airwalkreply.com/"><img src="https://airwalkreply.com/assets/Airwalk-Reply-Colour-Logo.svg" width="100" alt="Airwalk Reply"></a> <a href="https://theculturetrip.com/"><img src="https://theculturetrip.com/img/ct-full.svg" width="100" alt="The Culture Trip"></a> <img src="https://www.the-digital-insurer.com/wp-content/uploads/2019/04/MyDrive_Solutions_logo.png" width="100" alt="MyDrive Solutions"> <a href="https://data.mendeley.com/"><img src="https://scicrunch.org/upload/resource-images/15671.png" width="100" alt="Mendeley Data"></a>
+> ##### <p align="right">:point_up: places I've worked</p>
 
 ---
-__I've led teams & mentored individuals, had a say in product direction & Agile approach, and architected solutions to some complex problems.__
+__:speaking_head: I've led teams & mentored individuals, had a say in product direction & Agile approach, and architected solutions to some complex problems.__
 
 ---
 
@@ -33,10 +32,10 @@ __I've led teams & mentored individuals, had a say in product direction & Agile 
 > [![Pillow][pillow]](https://github.com/python-pillow/Pillow "Go to Github repo") - __Python Imaging Library__
 >
 > [![Rembg][rembg]](https://github.com/danielgatis/rembg "Go to Github repo") - __Remove image background using trained AI models__
-> ##### <p align="right">- cool libraries I've discovered recently</p>
+> ##### <p align="right">:point_up: cool libraries I've discovered recently</p>
 
 ---
-__I'm not one for sitting still - I've always got a project on the go...__
+__:runner: I'm not one for sitting still - I've always got a project on the go...__
 
 ---
 
@@ -66,15 +65,15 @@ __I'm not one for sitting still - I've always got a project on the go...__
 </details>
 
 >
-> ##### <p align="right">- I'm moving a bunch of personal projects into my public repo</p>
+> ##### <p align="right">:point_up: I'm moving a bunch of personal projects into my public repo</p>
 
 ---
-__...and I'm always looking for a challenge, so I can learn something new.__
+__...and I'm always looking for a challenge, so I can learn something new. :brain:__
 
 ---
 
 > ![React][react] ![Flask][flask] ![GraphQL][graphql] ![GCP][gcp]
-> ##### <p align="right">- stuff I'm planning to learn</p>
+> ##### <p align="right">:point_up: stuff I'm planning to learn</p>
 
 ---
 __:newspaper: In other news, Warhammer has been my special interest for 4 years now.__
