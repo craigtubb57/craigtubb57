@@ -94,7 +94,8 @@ __:newspaper: In other news, Warhammer has been my special interest for 4 years 
 > #### Have I piqued your interest?
 >
 > #### <p align="left">:point_right: [![Email me][email]](mailto:craig.tubb.57@gmail.com "craig.tubb.57@gmail.com")</p>
-> <p align="right">:wave:</p>
+>
+> <p align="middle">Byee! :wave:</p>
 
 ---
 
