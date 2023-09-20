@@ -1,4 +1,4 @@
-### 👋  Craig's looking for his next challenge :point_right: <p align="right">[![Email me][email]](mailto:craig.tubb.57@gmail.com "craig.tubb.57@gmail.com")</p>
+### 👋  Craig's looking for his next challenge <p align="right">:point_right: [![Email me][email]](mailto:craig.tubb.57@gmail.com "craig.tubb.57@gmail.com")</p>
 
 ---
 __:cloud: I'm loving serverless technologies at the moment, and it makes me very happy to see some code I've written make it's way to production via a CI/CD pipeline.__
@@ -91,7 +91,9 @@ __:newspaper: In other news, Warhammer has been my special interest for 4 years 
 > * :dog: Walking my Jackapoo
 > * :coffee: Great coffee
 >
-> #### Have I piqued your interest? <p align="middle">[![Email me][email]](mailto:craig.tubb.57@gmail.com "craig.tubb.57@gmail.com")</p>
+> #### Have I piqued your interest?
+>
+> #### <p align="left">:point_right: [![Email me][email]](mailto:craig.tubb.57@gmail.com "craig.tubb.57@gmail.com")</p>
 
 ---
 
