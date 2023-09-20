@@ -1,39 +1,33 @@
 ### 👋  Craig's looking for his next challenge <p align="middle">:point_right: [![Email me][email]](mailto:craig.tubb.57@gmail.com "craig.tubb.57@gmail.com")</p>
 
-<p style="border: 3px solid #FF8A00; padding: 20px; border-radius: 10px; margin-left: 0px; margin-right: 0px;">
+<table><tr><td><h4>
 :cloud: I'm loving serverless technologies at the moment, and it makes me very happy to see some code I've written make it's way to production via a CI/CD pipeline.
-</p>
+</h4></td></tr></table>
+
 
 
 :man_technologist:<p align="middle">![Python][python] ![Shell Script][shell] ![AWS][aws] [![Zappa][zappa]](https://github.com/zappa/Zappa "Go to Github project") [![Pulumi][pulumi]](https://www.pulumi.com/ "Go to Website")
 ![Cloudformation][cloudformation] ![Terraform][terraform] ![Auth0][auth0]
 ![GitHub Actions][githubactions] ![Docker][docker] ![GitHub Pages][githubpages]</p>
-##### <p align="middle">:point_up: some stuff I used recently</p>
+
+##### <p align="right">:point_up: some stuff I used recently</p>
+</div>
 
 
-<p style="border: 3px solid #FF8A00; padding: 20px; border-radius: 10px; margin-left: 0px; margin-right: 0px;">
+<table><tr><td><h4>
 :pencil: I approach problems with a TDD mindset and I always try and build for failure, balancing this with pragmatic demands of the project.
-</p>
+</h4></td></tr></table>
 
 
 :office:<p align="middle"><a href="https://www.kobaltmusic.com/"><img src="https://www.musicbusinessworldwide.com/files/2023/07/Kobalt-logo.jpg" width="100" alt="Kobalt Music"></a> <a href="https://airwalkreply.com/"><img src="https://airwalkreply.com/assets/Airwalk-Reply-Colour-Logo.svg" width="100" alt="Airwalk Reply"></a> <a href="https://theculturetrip.com/"><img src="https://theculturetrip.com/img/ct-full.svg" width="100" alt="The Culture Trip"></a> <img src="https://www.the-digital-insurer.com/wp-content/uploads/2019/04/MyDrive_Solutions_logo.png" width="100" alt="MyDrive Solutions"> <a href="https://data.mendeley.com/"><img src="https://scicrunch.org/upload/resource-images/15671.png" width="100" alt="Mendeley Data"></a></p>
-##### <p align="middle">:point_up: places I've worked</p>
+##### <p align="right">:point_up: places I've worked</p>
 
-<p style="border: 3px solid #FF8A00; padding: 20px; border-radius: 10px; margin-left: 0px; margin-right: 0px;">
+<table><tr><td><h4>
 :speaking_head: I've led teams & mentored individuals, had a say in product direction & Agile approach, and architected solutions to some complex problems.
-</p>
+</h4></td></tr></table>
 
 
-:toolbox:<p align="left" style="margin-left: 120px;">[![Grip][grip]](https://github.com/joeyespo/grip "Go to Github repo") - __GitHub Readme Instant Preview in browser__
-[![Troposphere][troposphere]](https://github.com/cloudtools/troposphere "Go to Github repo") - __Generate AWS CloudFormation templates__
-[![Pillow][pillow]](https://github.com/python-pillow/Pillow "Go to Github repo") - __Python Imaging Library__
-[![Rembg][rembg]](https://github.com/danielgatis/rembg "Go to Github repo") - __Remove image background using trained AI models__</p>
-##### <p align="middle">:point_up: cool tools I've discovered recently</p>
-
-<p style="border: 3px solid #FF8A00; padding: 20px; border-radius: 10px; margin-left: 0px; margin-right: 0px;">
-:runner: I'm not one for sitting still - I've always got a project on the go...
-</p>
-
+:notebook_with_decorative_cover:
 
 | Name                                                            | Purpose                                         | Status
 | --------------------------------------------------------------: | :---------------------------------------------- | :----:
@@ -61,20 +55,38 @@
 
 </details>
 
+##### <p align="right">:point_up: I'm moving some personal projects into public repos</p>
 
-##### <p align="middle">:point_up: I'm moving a bunch of personal projects into my public repo</p>
 
-<p style="border: 3px solid #FF8A00; padding: 20px; border-radius: 10px; margin-left: 0px; margin-right: 0px;">
-...and I'm always looking for a challenge, so I can learn something new. :brain:
-</p>
+<table><tr><td><h4>
+:runner: I'm not one for sitting still - I've always got a project on the go...
+</h4></td></tr></table>
 
 
 :man_teacher:<p align="middle">![React][react] ![Flask][flask] ![GraphQL][graphql] ![GCP][gcp]</p>
-##### <p align="middle">:point_up: stuff I'm planning to learn</p>
+##### <p align="right">:point_up: stuff I'm planning to learn</p>
 
-<p style="border: 3px solid #FF8A00; padding: 20px; border-radius: 10px; margin-left: 0px; margin-right: 0px;">
+
+<table><tr><td><h4>
+...and I'm always looking for a challenge, so I can learn something new. :brain:
+</h4></td></tr></table>
+
+
+:toolbox:
+
+| Tool                                                                                          | Description                                     |
+| --------------------------------------------------------------------------------------------: | :---------------------------------------------- |
+| [![Grip][grip]](https://github.com/joeyespo/grip "Go to Github repo")                         | __GitHub Readme Instant Preview in browser__
+| [![Troposphere][troposphere]](https://github.com/cloudtools/troposphere "Go to Github repo")  | __Generate AWS CloudFormation templates__
+| [![Pillow][pillow]](https://github.com/python-pillow/Pillow "Go to Github repo")              | __Python Imaging Library__
+| [![Rembg][rembg]](https://github.com/danielgatis/rembg "Go to Github repo")                   | __Remove image background using trained AI models__</p>
+
+##### <p align="right">:point_up: cool tools I've discovered recently</p>
+
+
+<table><tr><td><h4>
 :newspaper: In other news, Warhammer has been my special interest for 4 years now.
-</p>
+</h4></td></tr></table>
 
 
 <img align="right" src="https://media1.giphy.com/media/mYKZGGKpcOT59x65S9/giphy.gif" />
@@ -94,7 +106,7 @@ I also like:
 
 <p align="middle">Byee! :wave:</p>
 
----
+
 
 [email]: https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white
 
@@ -126,8 +138,8 @@ I also like:
 [gamemaker]: https://img.shields.io/badge/Gamemaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white
 [dynamodb]: https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white
 
-[ready]: https://img.shields.io/badge/Ready-197D54?style=for-the-badge
-[tidying]: https://img.shields.io/badge/Tidying-F68512?style=for-the-badge
-[inprogress]: https://img.shields.io/badge/In%20Progress-F5C417?style=for-the-badge
-[todo]: https://img.shields.io/badge/Todo-356ADE?style=for-the-badge
-[learn]: https://img.shields.io/badge/Learn-5B7282?style=for-the-badge
+[ready]: https://img.shields.io/badge/Ready-197D54?style=flat
+[tidying]: https://img.shields.io/badge/Tidying-F68512?style=flat
+[inprogress]: https://img.shields.io/badge/In%20Progress-F5C417?style=flat
+[todo]: https://img.shields.io/badge/Todo-356ADE?style=flat
+[learn]: https://img.shields.io/badge/Learn-5B7282?style=flat
