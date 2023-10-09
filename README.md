@@ -97,6 +97,7 @@ I also like:
 * :page_with_curl: Pub Quizzes
 * :beer: Real ale
 * :video_game: Computer Games
+  * [my itch.io page](https://balroc.itch.io/)
 * :dog: Walking my Jackapoo
 * :coffee: Great coffee
 
