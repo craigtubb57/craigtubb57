@@ -49,7 +49,7 @@
 | sam-example                                                     | ![AWS SAM][sam] example                         | ![Todo][todo]
 | troposphere-example                                             | ![Troposphere][troposphere] example             | ![Todo][todo]
 | terraform-example                                               | ![Terraform][terraform] example                 | ![Todo][todo]
-| flask-example                                                   | ![Flask][flask] example                         | ![Learn][learn]
+| flask-example                                                   | ![Flask][flask] example                         | ![Todo][todo]
 | react-example                                                   | ![React][react] example                         | ![Learn][learn]
 | graphql-example                                                 | ![GraphQL][graphql] example                     | ![Learn][learn]
 
