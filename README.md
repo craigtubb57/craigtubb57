@@ -176,6 +176,10 @@
     <a href="https://balroc.itch.io/cases-please" target="_blank" rel="noreferrer"> <img src="https://img.itch.zone/aW1nLzEyNzI1MzYzLnBuZw==/original/xL0Ozz.png" alt="casesplease" height="130"/> </a>
 <p>
 
+<p align="middle">
+    And we've made a bunch of others for the game jam format.
+</p>
+
 ---
 
 <!---
