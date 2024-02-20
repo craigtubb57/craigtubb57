@@ -127,7 +127,7 @@
 <p align="middle"><img src="assets/quotes/tdd_failure_pragmatism.png"  width="60%" alt="I practice TDD and build for failure, but reach for pragmatism when needed."></p>
 
 
-<h3 align="middle">Personal projects I'm slowly moving into public repos</h3>
+<h3 align="middle">Personal projects I'm gradually moving into public repos</h3>
 <div align="middle">
 
 | Name                                                            | Tech                                                                                                                                                                                                                                                                                                      | Purpose                                 | Status
