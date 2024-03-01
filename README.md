@@ -1,4 +1,4 @@
-#### <p align="middle">:wave: Craig's looking for his next challenge</p>
+#### <p align="middle">:wave: Heya, I'm Craig</p>
 ##### <p align="middle">[![Email][email]](mailto:craig.tubb.57@gmail.com "craig.tubb.57@gmail.com") [![LinkedIn][linkedin]](https://www.linkedin.com/in/craigtubb) [![Itch.io][itchio]](https://balroc.itch.io)
 
 ---
